@@ -13,6 +13,9 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
+<body>
+  <h1>hello world>/h1
+    <\body>
 ### Header 3
 
 - Bulleted
