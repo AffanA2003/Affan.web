@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sea",
+				"lightseagreen"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"gre",
+				"forestgreen"
+			],
+			[
+				"ye",
+				"lightyellow"
+			],
+			[
+				"red",
+				"mediumvioletred"
+			],
+			[
+				"bro",
+				"saddlebrown"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"brow",
+				"sandybrown"
+			],
+			[
+				"ba",
+				"background-clip"
+			],
+			[
+				"bac",
+				"backface-visibility"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bl",
+				"burlywood"
+			],
+			[
+				"br",
+				"burlywood"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"a",
+				"caption"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"h",
+				"h3"
+			],
+			[
+				"se",
+				"section4"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"met",
+				"meta"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"mar",
+				"marks"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "first1.html",
+			"settings":
+			{
+				"buffer_size": 17243,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Code Folding: Fold"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dr. Zulfiqar Ali/Desktop/projec.html/new project.sublime-workspace",
+		"/E/DS project/projectfirstPage.css",
+		"/E/DS project/DecimalToBinary.html",
+		"/E/DS project/ProjectfirstPage.html",
+		"/E/html/fullstack-course4-master/examples/Lecture09/links-same-page.html",
+		"/C/Users/Dr. Zulfiqar Ali/Desktop/projec.html/first1.html",
+		"/C/Users/Dr. Zulfiqar Ali/Desktop/projec.html/secondfile.html",
+		"/C/Users/Dr. Zulfiqar Ali/Downloads/exciting.css",
+		"/C/Users/Dr. Zulfiqar Ali/Downloads/moonlight.html",
+		"/C/Users/Dr. Zulfiqar Ali/Desktop/projec.html/firstfile.html",
+		"/C/Users/Dr. Zulfiqar Ali/Desktop/first.html",
+		"/C/Users/Dr. Zulfiqar Ali/AppData/Local/Programs/upwork/Upwork.exe",
+		"/E/html/fullstack-course4-master/examples/Lecture01/lec 4 .html",
+		"/E/html/fullstack-course4-master/examples/Lecture01/structure-only-after.html",
+		"/C/Users/Dr. Zulfiqar Ali/Documents/GitHub/Affan.web/site",
+		"/C/Users/Dr. Zulfiqar Ali/Documents/doc.html",
+		"/C/Users/Dr. Zulfiqar Ali/Documents/GitHub/Affan.web/helt/index.html",
+		"/C/Users/Dr. Zulfiqar Ali/Documents/GitHub/Affan.web/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "first1.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								814,
+								814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 988.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "new project.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
